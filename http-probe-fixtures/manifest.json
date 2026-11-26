@@ -1,0 +1,21 @@
+{
+  "format": "BB_HTTP_PROBE_FIXTURES_V1",
+  "mirror_path": "build-brain-data/http-probes/",
+  "files": [
+    {
+      "name": "response-20kb.txt",
+      "bytes": 20480,
+      "sha256": "2ef74e8b8b9eb2d69735e0cbe33e79197d13944a35cfb4a587f550bcca4493d2"
+    },
+    {
+      "name": "response-60kb.txt",
+      "bytes": 61440,
+      "sha256": "ca491ae7c6e9ad306332f54815a1c7fb0d9f2de9485faab1d024243dd6d4e770"
+    },
+    {
+      "name": "response-170kb.txt",
+      "bytes": 174080,
+      "sha256": "344ce10b6a0ae32a64f45a21fecbb48d74a3c90747343040e8f0f4f44d6e3d54"
+    }
+  ]
+}
