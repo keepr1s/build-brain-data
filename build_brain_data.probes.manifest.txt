@@ -1,4 +1,4 @@
 BBPUB1	ref=e249e8e9f66551c3f10ed5303a29c5fa4c35ea07
-F	http-probe-fixtures/response-20kb.txt	20480	fnv1a32:cd40613b
-F	http-probe-fixtures/response-60kb.txt	61440	fnv1a32:12b7fc36
-F	http-probe-fixtures/response-170kb.txt	174080	fnv1a32:f2299b43
+F	http-probe-fixtures/http-probes/response-20kb.txt	20480	fnv1a32:cd40613b
+F	http-probe-fixtures/http-probes/response-60kb.txt	61440	fnv1a32:12b7fc36
+F	http-probe-fixtures/http-probes/response-170kb.txt	174080	fnv1a32:f2299b43
